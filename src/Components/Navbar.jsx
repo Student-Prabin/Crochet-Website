@@ -2,7 +2,7 @@ const Navbar = () => {
   return (
     <div className="font-[Quicksand] flex justify-around items-center">
       <div className="flex items-end">
-        <img src="/src/assets/Designer-removebg-preview.png" alt="logo" className="w-16" />
+        <img src="/public/assets/Designer-removebg-preview.png" alt="logo" className="w-16" />
         <p className=" not-sm:hidden bg-gradient-to-r from-[#6CA3D0] to-[#1A2F94] bg-clip-text text-transparent">CozyLoops</p>
       </div>
       <div className="">

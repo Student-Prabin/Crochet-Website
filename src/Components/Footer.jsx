@@ -16,7 +16,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col sm:justify-end sm:items-end gap-3">
           <div className="flex items-end">
-            <img className="w-16" src="\src\assets\Designer-removebg-preview.png" alt="logo" />
+            <img className="w-16" src="\public\assets\Designer-removebg-preview.png" alt="logo" />
             <span className=" not-sm:hidden bg-gradient-to-r from-[#6CA3D0] to-[#1A2F94] bg-clip-text text-transparent">CozyLoops</span>
 
           </div>
