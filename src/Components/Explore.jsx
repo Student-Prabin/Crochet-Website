@@ -13,7 +13,7 @@ const Explore = () => {
           <p className="text-[#F90A0A] mt-3 not-sm:text-[8px] not-sm:mt-0">Rs.1000 </p>
         </div>
 
-        <div className="max-w-[300px] w-[24vw] max-h-[400px] h-[35vw] bg-linear-to-r from-[#F38FFD] to-[#E8C6E7] rounded-2xl drop-shadow-2xl/40 border-[#E8C6E7] p-2 flex flex-wrap justify-between">
+        <div className="max-w-[300px] w-[22vw] max-h-[400px] h-[35vw] bg-linear-to-r from-[#F38FFD] to-[#E8C6E7] rounded-2xl drop-shadow-2xl/40 border-[#E8C6E7] p-2 flex flex-wrap justify-between">
           <img className="mx-auto" src="\assets\71Zt6VgmqrL._UF894_1000_QL80_-removebg-preview.png" alt="purple_boque" />
           <p className="text-[#22185E] text-center font-bold not-sm:text-xs">Hand Bag</p>
           <p className=" text-xs not-md:hidden">Small and affordable handbag for ladies .
