@@ -9,14 +9,14 @@ const ChooseUs = () => {
         </div>
         <div className="flex gap-3 justify-center">
           <div className="max-w-[250px] w-[30vw] max-h-[300px] h-[35vw] bg-linear-to-r from-[#e6c1e4] to-[#E779F2] rounded-2xl drop-shadow-xl/50  flex items-center">
-            <img src="\public\assets\images-removebg-preview (3).png" alt="keyrings" />
+            <img src="\assets\images-removebg-preview (3).png" alt="keyrings" />
           </div>
 
           <div className="max-w-[250px] w-[30vw] max-h-[300px] h-[35vw] bg-linear-to-r from-[#e6c1e4] to-[#E779F2] rounded-2xl drop-shadow-xl/50 mt-20 flex items-center">
-            <img src="\public\assets\images-removebg-preview (1).png" alt="scarf" />
+            <img src="\assets\images-removebg-preview (1).png" alt="scarf" />
           </div>
           <div className="max-w-[250px] w-[30vw] max-h-[300px] h-[35vw] bg-linear-to-r from-[#e6c1e4] to-[#E779F2] rounded-2xl drop-shadow-xl/50  flex items-end">
-            <img src="\public\assets\71oTcDuSjAL._AC_UF1000_1000_QL80_-removebg-preview.png" alt="flowers" />
+            <img src="\assets\71oTcDuSjAL._AC_UF1000_1000_QL80_-removebg-preview.png" alt="flowers" />
           </div>
         </div>
 

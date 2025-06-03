@@ -18,7 +18,7 @@ const HeroSec = () => {
           </div>
         </div>
         <div>
-          <img className="h-[80%] rotate-35 mx-auto" src="\public\assets\54115445252_221d7c34fa_b-removebg-preview.png" alt="flower" />
+          <img className="h-[80%] rotate-35 mx-auto" src="\assets\54115445252_221d7c34fa_b-removebg-preview.png" alt="flower" />
         </div>
       </div>
     </>
