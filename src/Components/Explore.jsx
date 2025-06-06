@@ -1,11 +1,10 @@
-import { FaRegHeart } from "react-icons/fa";
-import Navbar from "./Navbar";
+
 import { Link, NavLink } from "react-router-dom";
 const Explore = () => {
   return (
     <div className="grid grid-row-end grid-cols-1 w-[80vw] m-auto gap-5"
     >
-      <p className="text-[#195D2B] text-opacity-10 font-bold text-4xl">Explore Best<br /> Seller Products</p>
+      <p className="text-[#195D2B] text-opacity-10 font-bold text-4xl">Our Best<br /> Selling Products</p>
       <div className="grid grid-cols-3">
         <Link to="/details"><div className="max-w-[300px] w-[24vw] max-h-[400px] h-[35vw] bg-linear-to-r from-[#F38FFD] to-[#E8C6E7] rounded-2xl drop-shadow-2xl/40 hover:drop-shadow-2xl border-[#E8C6E7] p-2 flex flex-wrap justify-between">
           <div className="h-70% mx-auto content-center">
@@ -48,7 +47,7 @@ const Explore = () => {
         </div></Link>
       </div>
       <NavLink to="/products">
-        <button className=" w-30 hover:bg-black bg-[#552B2B] text-white  border rounded-[10px] px-3 py-1 font-semibold">View More</button>
+        <button className=" w-30 hover:bg-black bg-[#552B2B] text-white  border rounded-[10px] px-3 py-1 font-semibold">Explore All</button>
       </NavLink>
     </div>
   )

@@ -14,7 +14,7 @@ const Navbar = () => {
         </p>
       </div></NavLink>
 
-      <ul className="flex items-center gap-[3vw]">
+      <ul className="flex items-center gap-[3vw] font-semibold">
         <li className="hover:text-gray-600">
           <NavLink to="/">Home</NavLink>
         </li>
@@ -22,7 +22,7 @@ const Navbar = () => {
           <NavLink to="/products">Products</NavLink>
         </li>
         <li className="hover:text-gray-600">
-          <NavLink to="#">Contact</NavLink>
+          <NavLink to="#">Cart</NavLink>
         </li>
       </ul>
 

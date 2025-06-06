@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 const HeroSec = () => {
   return (
     <>
@@ -13,7 +15,9 @@ const HeroSec = () => {
             but in the emotion behind every stitch<br />
             . Whether you're gifting or keeping it for yourself, you're <br />wrapping someone in love—one loop at a time.</p>
           <div className="flex gap-1">
-            <button className=" hover:bg-black bg-[#552B2B] text-white  border rounded-[10px] px-3 py-1 font-semibold">Items</button>
+            <Link to='/products'>
+              <button className=" hover:bg-black bg-[#552B2B] text-white  border rounded-[10px] px-3 py-1 font-semibold">Items</button>
+            </Link>
             <button className="hover:bg-black hover:text-white   border rounded-[10px] px-3 py-1 font-medium">Offers</button>
           </div>
         </div>
